@@ -122,14 +122,6 @@ code {
   border-radius: 10px;
 }
 
-/* Avatars */
-.wrapper-3Un6-K foreignObject,
-.callAvatarMask-fiNMWy foreignObject,
-.avatarContainer-gPrCzX foreignObject,
-.avatarMasked-qX7NI7 {
-  mask: none;
-  -webkit-mask: none;
-}
 .wrapper-3Un6-K,
 .avatar-31d8He,
 .profile-1o7I_1 .avatarUploaderInner-yEhTv5,
