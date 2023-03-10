@@ -123,13 +123,6 @@ code {
 }
 
 /* Avatars */
-.wrapper-3Un6-K foreignObject,
-.callAvatarMask-fiNMWy foreignObject,
-.avatarContainer-gPrCzX foreignObject,
-.avatarMasked-qX7NI7 {
-  mask: none;
-  -webkit-mask: none;
-}
 .wrapper-3Un6-K,
 .avatar-31d8He,
 .profile-1o7I_1 .avatarUploaderInner-yEhTv5,
@@ -152,7 +145,6 @@ code {
 .avatarHint-2g3Mcd,
 .avatarHint-2g3Mcd foreignObject {
   border-radius: var(--avatar-radius);
-  mask: none;
 }
 .avatarHintInner-3gk_Yx {
   border-radius: var(--avatar-radius);
@@ -273,9 +265,6 @@ Do Not Touch.
 }
 .avatar-2e8lTP:hover {
   border-color:rgba(104, 58, 126, 0.322);
-}
-.wrapper-3Un6-K circle {
-  fill:transparent;
 }
   
 /* pretty girl df */
